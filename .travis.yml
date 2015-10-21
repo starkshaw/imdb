@@ -6,4 +6,4 @@ python:
   - "3.5"
 sudo: false
 notification:
-	email: false
+  email: false
