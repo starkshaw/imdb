@@ -9,4 +9,4 @@ notification:
   email: false
 script: nosetest
 install:
-  - pip install bs4
+  - pip install beautifulsoup4
