@@ -7,6 +7,6 @@ python:
 sudo: false
 notification:
   email: false
-script: nosetest
+script: nosetests
 install:
   - pip install beautifulsoup4
