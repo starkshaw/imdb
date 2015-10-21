@@ -1,4 +1,5 @@
 # imdb
+<img src="https://travis-ci.org/starkshaw/imdb.svg?branch=master"></img>
 
 ## CONTENTS
 - [DESCRIPTION](#description)
